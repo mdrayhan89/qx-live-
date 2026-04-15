@@ -1,5 +1,4 @@
+flask
 playwright
 playwright-stealth
-mysql-connector-python
 quotexpy
-pandas
